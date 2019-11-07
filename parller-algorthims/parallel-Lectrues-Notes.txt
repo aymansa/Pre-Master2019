@@ -1,0 +1,75 @@
+Lec 1 
+Date : 6/11/2019 
+
+Place : Dr Maasud Office
+  - Was a revision 
+  
+-  class work is on  :
+  
+      -- search  for a paper on title on parallel computing 
+  -
+      -- your are required to provide a report about it (explain it ,  limitation of the paper m , try to implement it )
+ 
+  - Notes from Lec 
+ 
+      -- Network topologies and degree of each one (Degree : number of in and out lines from the node )
+     
+               1. Line or Bus  Topo. , 			 Degree :  1 or 2
+ 
+               2. Ring Topo            			 Degree : 2 
+     
+               3. Star Topo. ,          		                   Degree :  1 or n-1
+     
+               4. Mesh Topology (2D).  		 Degree :  2 or 3 or 4.  
+            
+   5. Torus (Mesh with rounded edges)              Degree : 4 
+     
+               6. Cube                                                             Degree : 3
+  
+               7. Symmetric tree                                             Degree : 1,2,3
+ 
+      -- Routing    : Choosing the best route from source to destination. 
+ 
+      -- Switching  :
+   
+            --- Switching   Techniques :
+    ***Task next time to prepare a short summary on the above Switching techniques ***
+                   1) Store and forward  
+                  2)virtual cut through. 
+                  3) circuit switching 
+                  4) wormhole switching (packet switching)
+      
+
+       
+-- Parallel Computing systems Types :
+  
+            --- shared memory system :  all nodes share one address space 
+     
+            --- distributed memory system : every node has it's local  memory   
+     
+            --- distributed shared memory : hybrid
+    
+  -
+- static and dynamic interconnection 
+ 
+      -- communication mechanisms 
+  
+            - 1 to one 
+  
+            - many source to many destinations   -> multiply one to one
+ 
+            - Broadcast :  from single node to all others ,  the same message 
+   
+            - multi cast : from single node to some nodes not the all 
+    
+            -  scatter :  from one node to all others but different messages 
+   
+            - many to one 
+      
+            - gathering :  many to one , different messages 
+      
+            - map.      :  many to one ,  the same message 
+   
+            - many to many  : all broad cast or all scatter 
+    
+
