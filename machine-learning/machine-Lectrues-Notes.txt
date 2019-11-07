@@ -1,0 +1,20 @@
+Lec 1 
+Date : 6/11/2019 
+Place : Quilty Room
+----------------------
+ - ch 12 book " data science from scratch "
+ - was about  K1- nearest –neighbored 
+****************************************************************************
+Lec 2 
+Date : 6/11/2019 , from 12:30 to 1:30
+Place : quality  Room
+----------------------
+ - Was mainly about Naïve Bayes Model 
+ - Chapter 06 , book "Building machine learning Systems with Python"
+- Teaching assistant of  the course is :  eng / Ahamd Ramadan , attendance in Section is not mandatory you can contact the T.A is you have problems 
+ - class work will be on TASKs and implantation of models on the books
+ - Notes from lecture 
+     -  Native Bayes classifier
+     - Classifying tweets into positive and negative tweets
+     - this equations is not in the book 
+        P (word) = [word-Count+1] / [total number of words + number of distinct word]
