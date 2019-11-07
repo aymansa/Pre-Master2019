@@ -1,0 +1,15 @@
+Lec 1
+Date : 6/11/2019 , from 11 to 12:15
+
+Place : Seminar Hall   
+
+--
+Slide 1 
+-- overview about Big data 
+Required 
+****TASK
+- Setup Hadope and map-reduce 
+
+
+-----
+Next lecture 13/11/2019 is off 
